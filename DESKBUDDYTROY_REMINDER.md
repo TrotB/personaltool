@@ -1,16 +1,16 @@
-# DustBuddy Troy Work Reminder
+# DeskBuddyTroy Work Reminder
 
-This workspace does not currently contain the DustBuddy Troy trading code. It is the
+This workspace does not currently contain the DeskBuddyTroy trading code. It is the
 `TrotB/personaltool` Statement Markup Tool repository, so the trading-mode changes
 cannot be implemented here without the correct repo or local PC files.
 
 ## Do this when back at the PC
 
-1. Open the DustBuddy Troy trading repository/project.
+1. Open the DeskBuddyTroy trading repository/project.
 2. Start a new coding agent from that repo, or paste this checklist into the agent.
 3. Ask the agent to implement and test the items below.
 
-## Required DustBuddy Troy changes
+## Required DeskBuddyTroy changes
 
 - Add two new trading modes tied to Lucid Flex Eval rules:
   - Lucid 25k Flex Eval
@@ -44,7 +44,7 @@ after a minimum sample size. Keep the thresholds configurable per strategy/mode.
 ## Prompt to use in the correct repo
 
 ```text
-Implement DustBuddy Troy support for Lucid 25k Flex Eval and Lucid 50k Flex Eval
+Implement DeskBuddyTroy support for Lucid 25k Flex Eval and Lucid 50k Flex Eval
 trading modes. Use the existing mode/risk-rule architecture. Add callout caps of 750
 for 25k Flex Eval and 1500 for all 50k eval accounts. Keep swing trading test mode
 free of these eval-specific restrictions for now. Add a strategy audit system that
